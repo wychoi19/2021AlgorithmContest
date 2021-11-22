@@ -19,3 +19,14 @@ ex2.java : https://www.acmicpc.net/problem/3184
 해결 : 로컬실행 시 완료
 
 미해결 : 제출 시 runtime 오류 미해결
+
+
+ex3.java : https://www.acmicpc.net/problem/9095
+
+설명 : 각 수들에 대해 1 2 3의 합으로 몇 개의 경우의 수가 나오는지 찾는 프로그램
+
+재귀호출을 이용함 (Dynamic Program)
+
+해결 : 완료
+
+미해결 : 제출 시 runtime 오류 미해결
