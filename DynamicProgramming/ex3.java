@@ -1,4 +1,4 @@
-package AlgorithmContest2021;
+package AlgorithmContest2021.DynamicProgramming;
 
 import java.util.ArrayList;
 import java.util.Scanner;
