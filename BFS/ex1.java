@@ -1,4 +1,4 @@
-package AlgorithmContest2021;
+package AlgorithmContest2021.BFS;
 
 import java.util.ArrayList;
 import java.util.Collections;
